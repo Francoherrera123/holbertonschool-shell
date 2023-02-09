@@ -1,6 +1,6 @@
 #!/bin/bash
 echo -n "Introduce el nombre del archivo trabajado."
-read filename
+read fileName
 echo -n "Introduce el mensaje de commit."
 read comment
 chmod 777 $fileName
