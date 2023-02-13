@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n5 syslog /etc/passwd /etc/hosts
+cat /etc/passwd /etc/hosts
