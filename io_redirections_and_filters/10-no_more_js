@@ -1,2 +1,2 @@
 #!/bin/bash
-rm $(find ../. -name '*.js')
+rm $(find .././.1 -name '*.js')
