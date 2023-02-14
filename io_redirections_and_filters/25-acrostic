@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -cl -1 tl
+cut -c 1 | paste -s -d '' 
