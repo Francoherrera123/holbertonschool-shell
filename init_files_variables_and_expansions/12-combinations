@@ -1,2 +1,2 @@
 #!/bin/bash
-printf {a..z}{a..z} | tr -d"oo"
+printf {a..z}{a..z} | cut -c 1,2 -delete
