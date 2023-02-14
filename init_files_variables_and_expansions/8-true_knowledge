@@ -1,2 +1,2 @@
 #!/bin/bash
-export suma=128 | echo $suma+$TRUEKNOWLEDGE
+export suma=128 | echo "$suma+$TRUEKNOWLEDGE"
