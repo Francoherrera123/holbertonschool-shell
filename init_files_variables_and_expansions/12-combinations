@@ -1,2 +1,2 @@
 #!/bin/bash
-printf {a..z}{a..z} | cut -c 1,2 -delete
+printf '%s\n' {a..z}{a..z} | cut -c 1,2 -delete
